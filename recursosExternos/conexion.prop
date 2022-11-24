@@ -1,0 +1,5 @@
+driver = org.sqlite.JDBC
+protocolo = jdbc:sqlite:
+ficheroSQLite = /recursosExternos/reservas.sqlite
+user = sa
+password =

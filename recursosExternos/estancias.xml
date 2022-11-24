@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datosActualizados>
+	<mantenimiento>
+		<estancia hab="301" hotel="H10">
+			<fechaInicio>
+				2002-3-12
+			</fechaInicio>
+			<fechaFin>
+				2000-4-12
+			</fechaFin>
+		</estancia>
+	</mantenimiento>
+	<inserciones>
+		<estancia hab="301" hotel="H10">
+			<nombre>
+				J. Raúl Mendoza
+			</nombre>
+			<fechaInicio>
+				2000-1-12
+			</fechaInicio>
+			<fechaFin>
+				2000-1-22
+			</fechaFin>
+		</estancia>
+		<estancia hab="401" hotel="Luna4">
+			<nombre>
+				Irene Tanhauser
+			</nombre>
+			<fechaInicio>
+				2000-4-5
+			</fechaInicio>
+			<fechaFin>
+				2000-4-12
+			</fechaFin>
+		</estancia>
+		<estancia erronea="erronea" hab="666" hotel="Luna4">
+			<nombre>
+				Ramón Rapiñante
+			</nombre>
+			<fechaInicio>
+				2001-1-15
+			</fechaInicio>
+			<fechaFin>
+				2001-1-25
+			</fechaFin>
+		</estancia>
+	</inserciones>
+</datosActualizados>
